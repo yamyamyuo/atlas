@@ -112,7 +112,7 @@
                 <role>committer</role>
                 <role>PMC</role>
             </roles>
-            <organization></organization>
+            <organization/>
         </developer>
         <developer>
             <id>apoorvnaik</id>
@@ -123,7 +123,7 @@
                 <role>committer</role>
                 <role>PMC</role>
             </roles>
-            <organization></organization>
+            <organization/>
             <!--<organizationUrl></organizationUrl>-->
         </developer>
         <developer>
@@ -347,7 +347,7 @@
                 <role>committer</role>
                 <role>PMC</role>
             </roles>
-            <organization></organization>
+            <organization/>
         </developer>
         <developer>
             <id>kalyanikashikar</id>
@@ -528,7 +528,7 @@
                 <role>committer</role>
                 <role>PMC</role>
             </roles>
-            <organization></organization>
+            <organization/>
             <!--<organizationUrl></organizationUrl>-->
         </developer>
         <developer>
@@ -540,7 +540,7 @@
                 <role>committer</role>
                 <role>PMC</role>
             </roles>
-            <organization></organization>
+            <organization/>
         </developer>
         <developer>
             <id>vranganathan</id>
@@ -551,7 +551,7 @@
                 <role>committer</role>
                 <role>PMC</role>
             </roles>
-            <organization></organization>
+            <organization/>
             <!--<organizationUrl></organizationUrl>-->
         </developer>
         <developer>
@@ -563,7 +563,7 @@
                 <role>committer</role>
                 <role>PMC</role>
             </roles>
-            <organization></organization>
+            <organization/>
         </developer>
         <developer>
             <id>svimal2106</id>
@@ -574,7 +574,7 @@
                 <role>committer</role>
                 <role>PMC</role>
             </roles>
-            <organization></organization>
+            <organization/>
             <!--<organizationUrl></organizationUrl>-->
         </developer>
     </developers>
@@ -679,7 +679,7 @@
         <antlr4.version>4.7</antlr4.version>
         <aopalliance.version>1.0</aopalliance.version>
         <aspectj.runtime.version>1.8.7</aspectj.runtime.version>
-        <atlas.surefire.options></atlas.surefire.options>
+        <atlas.surefire.options/>
         <avro.version>1.7.5</avro.version>
         <calcite.version>1.16.0</calcite.version>
         <checkstyle.failOnViolation>false</checkstyle.failOnViolation>
@@ -698,7 +698,7 @@
         <curator.version>4.3.0</curator.version>
         <doxia.version>1.8</doxia.version>
         <dropwizard-metrics>3.2.2</dropwizard-metrics>
-        <elasticsearch.version>7.6.0</elasticsearch.version>
+        <elasticsearch.version>7.17.7</elasticsearch.version>
         <entity.repository.impl>org.apache.atlas.repository.audit.InMemoryEntityAuditRepository</entity.repository.impl>
         <enunciate-maven-plugin.version>2.13.2</enunciate-maven-plugin.version>
         <failsafe.version>2.18.1</failsafe.version>
@@ -771,7 +771,7 @@
         <surefire.forkCount>2C</surefire.forkCount>
         <surefire.version>3.0.0-M5</surefire.version>
         <testng.version>7.0.0</testng.version>
-        <tinkerpop.version>3.5.1</tinkerpop.version>
+        <tinkerpop.version>3.5.5</tinkerpop.version>
         <woodstox-core.version>5.0.3</woodstox-core.version>
         <zookeeper.version>3.5.7</zookeeper.version>
     </properties>
